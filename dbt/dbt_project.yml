@@ -1,0 +1,16 @@
+name: creator_monetization_lab
+version: "1.0.0"
+config-version: 2
+
+profile: creator_monetization_lab
+
+model-paths: ["models"]
+target-path: "target"
+clean-targets: ["target", "dbt_packages"]
+
+models:
+  creator_monetization_lab:
+    staging:
+      +materialized: view
+    marts:
+      +materialized: table

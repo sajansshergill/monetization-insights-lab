@@ -1,0 +1,12 @@
+creator_monetization_lab:
+  target: dev
+  outputs:
+    dev:
+      type: postgres
+      host: localhost
+      user: spotify
+      password: spotify
+      port: 5432
+      dbname: creator_lab
+      schema: analytics
+      threads: 4

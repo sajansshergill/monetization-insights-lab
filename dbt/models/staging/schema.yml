@@ -1,0 +1,12 @@
+version: 2
+
+sources:
+  - name: raw
+    schema: public
+    tables:
+      - name: dim_creator
+      - name: dim_show
+      - name: dim_episode
+      - name: dim_listener
+      - name: fct_events
+      - name: fct_ads
