@@ -1,0 +1,474 @@
+show_id,creator_id,category,language
+1,1,News,en
+2,1,Business,en
+3,2,News,en
+4,3,True Crime,en
+5,3,Business,en
+6,3,Tech,en
+7,4,Comedy,fr
+8,4,Education,en
+9,5,Education,en
+10,6,Tech,en
+11,7,Comedy,pt
+12,8,Education,en
+13,9,Sports,en
+14,9,Tech,es
+15,10,Comedy,en
+16,11,Sports,hi
+17,12,True Crime,en
+18,13,Sports,en
+19,13,News,en
+20,14,Education,en
+21,15,Sports,en
+22,16,Business,es
+23,17,Business,en
+24,18,News,en
+25,19,Tech,de
+26,19,News,de
+27,19,Business,en
+28,20,Business,en
+29,20,Education,en
+30,21,Tech,en
+31,21,Sports,en
+32,22,Health,en
+33,23,News,pt
+34,23,News,en
+35,23,Business,en
+36,24,Tech,en
+37,25,News,pt
+38,26,News,en
+39,27,Tech,en
+40,27,Education,es
+41,28,Tech,fr
+42,29,Tech,en
+43,30,News,fr
+44,31,Tech,en
+45,32,Health,fr
+46,33,Health,en
+47,34,News,en
+48,35,Sports,en
+49,36,Health,en
+50,36,Tech,pt
+51,37,Health,en
+52,38,Tech,en
+53,38,Health,en
+54,39,Comedy,en
+55,40,News,en
+56,41,Health,en
+57,42,Tech,en
+58,43,Education,fr
+59,43,Health,es
+60,44,Education,en
+61,45,Tech,en
+62,46,True Crime,hi
+63,46,Comedy,en
+64,47,Sports,en
+65,48,Health,en
+66,48,True Crime,en
+67,49,Health,es
+68,49,Sports,hi
+69,50,True Crime,en
+70,51,Tech,en
+71,51,Education,fr
+72,51,True Crime,en
+73,52,Comedy,en
+74,52,Tech,en
+75,53,Sports,en
+76,54,Comedy,pt
+77,54,News,en
+78,55,Comedy,en
+79,56,Health,en
+80,57,Education,en
+81,58,Health,en
+82,58,Sports,en
+83,59,Sports,en
+84,60,Education,es
+85,61,News,en
+86,62,True Crime,en
+87,63,Health,hi
+88,64,News,en
+89,65,News,en
+90,65,Education,en
+91,66,Sports,en
+92,67,Comedy,en
+93,68,News,en
+94,68,Sports,en
+95,69,Tech,en
+96,69,Education,en
+97,69,True Crime,en
+98,70,Business,en
+99,71,Comedy,pt
+100,71,Business,es
+101,72,True Crime,en
+102,72,Education,hi
+103,73,Comedy,fr
+104,73,Business,en
+105,74,Health,pt
+106,75,Sports,en
+107,75,Comedy,hi
+108,76,Tech,de
+109,77,Education,en
+110,78,News,es
+111,79,Tech,fr
+112,79,Education,en
+113,79,Business,en
+114,80,Business,en
+115,80,Business,en
+116,81,News,en
+117,81,Education,de
+118,82,Health,pt
+119,82,Health,es
+120,82,Business,en
+121,83,Health,es
+122,83,Health,en
+123,83,News,en
+124,84,Education,en
+125,85,Tech,en
+126,86,Sports,de
+127,86,Sports,pt
+128,86,Education,en
+129,87,News,fr
+130,88,News,pt
+131,89,True Crime,en
+132,90,Education,en
+133,91,Comedy,en
+134,91,True Crime,de
+135,91,Education,en
+136,91,True Crime,en
+137,91,News,en
+138,92,Comedy,en
+139,93,Business,fr
+140,94,Tech,en
+141,95,Sports,en
+142,96,Comedy,en
+143,97,True Crime,en
+144,98,Sports,fr
+145,99,Health,en
+146,100,Sports,de
+147,100,News,en
+148,101,Sports,hi
+149,102,Sports,hi
+150,103,Education,en
+151,104,True Crime,en
+152,105,Business,en
+153,106,Comedy,en
+154,106,News,en
+155,106,True Crime,en
+156,107,Tech,en
+157,108,Tech,es
+158,108,True Crime,en
+159,109,Tech,es
+160,109,Sports,en
+161,110,True Crime,fr
+162,110,Education,en
+163,111,News,fr
+164,112,True Crime,hi
+165,113,True Crime,en
+166,114,Health,en
+167,115,Comedy,fr
+168,116,Tech,en
+169,117,Health,es
+170,117,Tech,en
+171,118,Education,en
+172,119,True Crime,pt
+173,120,Tech,en
+174,121,News,en
+175,121,Comedy,en
+176,121,True Crime,pt
+177,122,Education,en
+178,123,Tech,es
+179,123,True Crime,en
+180,123,Comedy,en
+181,124,Health,en
+182,124,Comedy,pt
+183,124,Education,en
+184,125,News,en
+185,125,Business,de
+186,126,Health,en
+187,127,Health,hi
+188,128,News,en
+189,129,Business,hi
+190,129,Health,en
+191,129,Business,de
+192,130,Comedy,en
+193,130,Tech,pt
+194,131,Business,hi
+195,132,Comedy,de
+196,133,Comedy,en
+197,134,Tech,en
+198,135,Health,en
+199,135,Tech,hi
+200,136,Health,en
+201,137,True Crime,en
+202,137,News,fr
+203,138,Business,en
+204,139,Comedy,fr
+205,140,Sports,en
+206,140,Business,hi
+207,141,Health,fr
+208,142,Sports,en
+209,142,Education,en
+210,142,Sports,en
+211,142,Tech,en
+212,143,True Crime,hi
+213,143,Tech,en
+214,144,True Crime,fr
+215,145,Education,fr
+216,146,Business,en
+217,146,News,en
+218,146,Health,en
+219,147,News,fr
+220,147,Comedy,en
+221,147,True Crime,en
+222,148,News,en
+223,149,Tech,es
+224,149,Business,hi
+225,149,Health,pt
+226,149,Business,en
+227,150,News,hi
+228,151,News,es
+229,152,Tech,en
+230,153,Education,en
+231,154,Tech,de
+232,155,Tech,fr
+233,156,News,es
+234,157,Health,hi
+235,158,Sports,es
+236,158,Education,en
+237,158,Health,es
+238,159,News,en
+239,160,Business,en
+240,160,Sports,es
+241,160,Tech,en
+242,161,News,es
+243,162,Comedy,en
+244,162,Business,en
+245,163,Business,en
+246,163,Tech,es
+247,164,Health,en
+248,165,Health,en
+249,165,Business,en
+250,166,Sports,en
+251,166,Business,en
+252,167,Health,es
+253,168,Education,en
+254,168,News,fr
+255,169,Comedy,en
+256,170,Education,en
+257,171,Tech,en
+258,171,Tech,en
+259,171,Education,en
+260,172,Health,en
+261,172,Business,hi
+262,173,Tech,en
+263,173,Tech,fr
+264,173,News,en
+265,173,Education,en
+266,173,Health,es
+267,174,Education,es
+268,174,Sports,en
+269,175,Comedy,es
+270,176,Health,en
+271,177,Comedy,pt
+272,178,Tech,pt
+273,178,Tech,es
+274,178,Sports,es
+275,179,Sports,en
+276,180,Sports,en
+277,181,True Crime,de
+278,182,Health,en
+279,182,News,en
+280,182,Business,hi
+281,183,Tech,de
+282,184,Tech,en
+283,184,Health,en
+284,185,News,hi
+285,186,True Crime,en
+286,187,True Crime,en
+287,187,Health,en
+288,187,Business,en
+289,188,Sports,es
+290,188,True Crime,en
+291,189,Sports,fr
+292,190,Business,en
+293,191,Health,es
+294,192,Business,pt
+295,193,Comedy,hi
+296,193,Sports,pt
+297,194,Health,en
+298,195,Health,en
+299,196,Business,en
+300,196,Sports,en
+301,196,News,en
+302,197,Health,en
+303,197,Education,es
+304,198,Health,en
+305,198,Education,en
+306,199,Education,en
+307,199,Comedy,fr
+308,199,Tech,en
+309,200,True Crime,de
+310,201,Sports,en
+311,202,News,en
+312,203,Tech,en
+313,204,Tech,en
+314,204,Health,es
+315,205,Tech,en
+316,206,True Crime,en
+317,206,Sports,en
+318,207,Business,en
+319,208,Sports,en
+320,209,Tech,pt
+321,210,True Crime,en
+322,211,Education,de
+323,212,Tech,de
+324,213,Business,es
+325,214,Tech,en
+326,214,Tech,en
+327,214,News,en
+328,215,Health,en
+329,215,Sports,en
+330,216,Health,en
+331,216,Business,de
+332,216,Business,en
+333,216,Comedy,en
+334,216,Business,en
+335,217,Education,fr
+336,218,Comedy,de
+337,218,Sports,en
+338,218,Tech,en
+339,219,Sports,en
+340,220,Health,en
+341,221,Health,en
+342,222,Health,en
+343,223,Tech,en
+344,224,News,en
+345,224,Sports,en
+346,224,Sports,en
+347,224,News,en
+348,224,Business,en
+349,225,Business,de
+350,225,Sports,en
+351,225,Tech,en
+352,226,Comedy,en
+353,227,True Crime,es
+354,228,News,es
+355,229,Business,en
+356,229,True Crime,en
+357,230,Education,en
+358,231,News,en
+359,232,Health,en
+360,232,Health,en
+361,233,Education,en
+362,234,News,fr
+363,235,Comedy,en
+364,236,Health,es
+365,237,Sports,en
+366,237,Comedy,es
+367,237,Education,en
+368,238,Health,en
+369,239,News,en
+370,239,Business,en
+371,240,Sports,en
+372,241,Tech,de
+373,242,Business,de
+374,243,Sports,en
+375,244,Comedy,en
+376,244,Tech,en
+377,245,Business,en
+378,246,Health,en
+379,247,Business,en
+380,248,Business,en
+381,249,Tech,hi
+382,250,Sports,en
+383,250,Health,hi
+384,251,Comedy,en
+385,252,Education,en
+386,252,True Crime,en
+387,253,True Crime,en
+388,254,True Crime,pt
+389,254,True Crime,en
+390,254,Comedy,en
+391,255,Education,en
+392,256,True Crime,en
+393,257,Comedy,es
+394,258,True Crime,de
+395,258,True Crime,en
+396,258,True Crime,en
+397,259,Tech,de
+398,259,Business,es
+399,260,Sports,en
+400,261,News,en
+401,261,Comedy,hi
+402,262,Education,en
+403,263,True Crime,pt
+404,264,Education,fr
+405,265,Tech,en
+406,266,News,en
+407,267,True Crime,en
+408,268,Education,es
+409,268,Tech,en
+410,269,Health,en
+411,269,Tech,en
+412,270,True Crime,es
+413,271,Tech,en
+414,271,News,en
+415,271,News,es
+416,271,Health,pt
+417,271,Tech,fr
+418,272,Business,de
+419,273,Comedy,de
+420,273,Health,en
+421,274,Education,en
+422,274,Sports,en
+423,274,Business,en
+424,274,News,en
+425,275,Health,hi
+426,276,True Crime,fr
+427,277,Tech,en
+428,278,Tech,pt
+429,278,Tech,fr
+430,278,Sports,en
+431,279,Education,en
+432,279,Health,en
+433,280,Health,en
+434,281,Education,en
+435,281,Sports,pt
+436,282,Education,en
+437,283,Comedy,es
+438,283,News,en
+439,284,Education,pt
+440,284,Tech,en
+441,285,Tech,es
+442,286,News,en
+443,286,Comedy,fr
+444,286,News,pt
+445,287,Comedy,en
+446,287,Tech,pt
+447,288,Tech,pt
+448,289,Health,en
+449,290,True Crime,en
+450,290,Tech,en
+451,291,Sports,es
+452,291,Education,en
+453,291,Health,pt
+454,292,Health,en
+455,292,True Crime,en
+456,292,Tech,en
+457,293,Business,es
+458,294,Tech,en
+459,295,Sports,en
+460,295,Health,en
+461,295,Education,en
+462,295,Comedy,en
+463,296,Tech,es
+464,297,Health,pt
+465,297,Comedy,en
+466,297,Education,hi
+467,297,True Crime,en
+468,297,News,pt
+469,298,Tech,en
+470,298,Comedy,en
+471,299,News,en
+472,300,Education,en
+473,300,Health,en

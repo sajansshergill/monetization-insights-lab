@@ -48,3 +48,17 @@ Runtime Error
 [0m13:02:21.694011 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x107035f30>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x107090dd0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x106ef2be0>]}
 [0m13:02:21.694139 [debug] [MainThread]: Flushing usage events
 [0m13:02:21.776537 [debug] [MainThread]: An error was encountered while trying to flush usage events
+[0m13:30:58.988279 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x106430590>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x107fc3750>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x107fc3890>]}
+
+
+============================== 13:30:58.991488 | 71123a4b-74bf-4b71-bc02-e8eccdcd63f8 ==============================
+[0m13:30:58.991488 [info ] [MainThread]: Running with dbt=1.11.6
+[0m13:30:58.991770 [debug] [MainThread]: running dbt with arguments {'no_print': 'None', 'warn_error': 'None', 'profiles_dir': '.', 'cache_selected_only': 'False', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'empty': 'False', 'static_parser': 'True', 'printer_width': '80', 'use_experimental_parser': 'False', 'log_format': 'default', 'indirect_selection': 'eager', 'debug': 'False', 'introspect': 'True', 'partial_parse': 'True', 'version_check': 'True', 'send_anonymous_usage_stats': 'True', 'write_json': 'True', 'log_path': '/Users/sajanshergill/monetization-insights-lab/dbt/logs', 'use_colors': 'True', 'fail_fast': 'False', 'quiet': 'False', 'target_path': 'None', 'log_cache_events': 'False', 'invocation_command': 'dbt build --profiles-dir .'}
+[0m13:30:58.993015 [error] [MainThread]: Encountered an error:
+Runtime Error
+  Could not find profile named 'creator_monetization_lab'
+[0m13:30:58.994852 [debug] [MainThread]: Resource report: {"command_name": "build", "command_success": false, "command_wall_clock_time": 0.037281957, "process_in_blocks": "0", "process_kernel_time": 0.107744, "process_mem_max_rss": "113590272", "process_out_blocks": "0", "process_user_time": 0.605461}
+[0m13:30:58.995080 [debug] [MainThread]: Command `dbt build` failed at 13:30:58.995039 after 0.04 seconds
+[0m13:30:58.995214 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x107fd2650>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x108019010>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x108050490>]}
+[0m13:30:58.995346 [debug] [MainThread]: Flushing usage events
+[0m13:30:59.240841 [debug] [MainThread]: An error was encountered while trying to flush usage events

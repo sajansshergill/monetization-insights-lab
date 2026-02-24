@@ -1,0 +1,21 @@
+models:
+  - name: stg_creator
+    columns:
+      - name: creator_id
+        tests: [not_null, unique]
+
+  - name: stg_show
+    columns:
+      - name: show_id
+        tests: [not_null, unique]
+      - name: creator_id
+        tests: [not_null]
+
+  - name: stg_episode
+    columns:
+      - name: episode_id
+        tests: [not_null, unique]
+      - name: show_id
+        tests: [not_null]
+      - name: creator_id
+        tests: [not_null]
